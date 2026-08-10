@@ -3,7 +3,7 @@ Neural Networks and Deep Learning — AAI-511-IN2
 Final Project: Music Genre and Composer Classification Using Deep Learning
 University of San Diego 
 MS Applied AI — July 2026
-Author: Chandra Mouli Mudumba
+Author: Chandra Mouli Mudumba, Rajneesh Kumar, Rahul S Pawar 
 
 
 
