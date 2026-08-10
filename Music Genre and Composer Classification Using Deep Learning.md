@@ -1,7 +1,7 @@
 # Music Genre and Composer Classification Using Deep Learning
 
-**Chandra Mouli Mudumba**  
-Department of Computer Science  
+Chandra Mouli Mudumba, Rajneesh Kumar and Rahul S Pawar 
+University of San Diego, MSc Applied AI 
 MSc Final Team Project  
 
 ---
