@@ -2,8 +2,9 @@
 
 ## Final Project: Music Genre and Composer Classification Using Deep Learning
 
-**MS Applied AI — July 2026**  
-**Author:** Chandra Mouli Mudumba
+MS Applied AI
+University of San Diego — July 2026**  
+Authors: Chandra Mouli Mudumba, Rajneesh Kumar and Rahul S Pawar 
 
 ---
 
